@@ -1,4 +1,4 @@
-# 📊 Animated Graphs in R using gganimate
+### 📊 Animated Graphs in R using gganimate
 [![R Version](https://img.shields.io/badge/R-%3E%3D%204.0-blue)](https://www.r-project.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Made with ggplot2](https://img.shields.io/badge/Made%20with-ggplot2-orange)](https://ggplot2.tidyverse.org/)
@@ -12,7 +12,7 @@ This project demonstrates how to create animated visualizations in R using ggplo
 It is designed as a tutorial example and uses the built-in economics dataset from ggplot2.
 
 
-🚀 Features
+### 🚀 Features
 
 Animated Line Chart → U.S. unemployment over time.
 
@@ -22,7 +22,7 @@ Clean, minimal code structure.
 
 Ready-to-use for teaching, YouTube demos, and practice.
 
-📂 Files in this Repository
+### 📂 Files in this Repository
 
 animated_graphs.R → Main R script.
 
@@ -41,14 +41,14 @@ README.md → Documentation.
 
 
 
-🛠 Requirements
+###  🛠 Requirements
 
 R (version ≥ 4.0)
 
 R packages:
 Install them using: install.packages(c("ggplot2", "gganimate", "gifski"))
 
-▶️ How to Run
+###  ▶️ How to Run
 
 Clone this repository:
 
@@ -61,9 +61,9 @@ Run the script to generate GIF animations.
 
 The outputs will be saved in your working directory.
 
-🎥 YouTube Tutorial
+###  🎥 YouTube Tutorial
 👉 Watch the full step-by-step tutorial here: https://youtu.be/vDS3nUzEij4 
 
-🏷 License
+### 🏷 License
 
 This project is licensed under the MIT License – free to use, modify, and share.
