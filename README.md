@@ -38,7 +38,7 @@ README.md → Documentation.
 
 ![Unemployment Over Time](images/unemployment_line.gif)
 
-### 📊 Savings vs Unemployment (Animated)
+savings_vs_unemployment.gif
 ![Savings vs Unemployment](images/savings_vs_unemployment.gif)
 
 
