@@ -1,13 +1,7 @@
 📊 Animated Graphs in R using gganimate
 
 
-
-
-
-
-
-
-
+![Banner](A_promotional_digital_banner_showcases_creating_an.png)
 
 This project demonstrates how to create animated visualizations in R using ggplot2, gganimate, and gifski.
 It is designed as a tutorial example and uses the built-in economics dataset from ggplot2.
@@ -69,11 +63,6 @@ Run the script to generate GIF animations.
 The outputs will be saved in your working directory.
 
 🎥 YouTube Tutorial
-
-👉 Watch the full step-by-step tutorial here:
-
-🎥 YouTube Tutorial
-
 👉 Watch the full step-by-step tutorial here: https://youtu.be/vDS3nUzEij4 
 
 🏷 License
