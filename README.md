@@ -35,11 +35,10 @@ thumbnail.png → Intro/thumbnail for YouTube.
 README.md → Documentation.
 
 ### 📖 Example Outputs
+![Unemployment Over Time](unemployment_line.gif)
 
-![Unemployment Over Time](images/unemployment_line.gif)
+![Savings vs Unemployment](savings_vs_unemployment.gif)
 
-savings_vs_unemployment.gif
-![Savings vs Unemployment](images/savings_vs_unemployment.gif)
 
 
 🛠 Requirements
