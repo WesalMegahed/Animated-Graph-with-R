@@ -1,10 +1,16 @@
-📊 Animated Graphs in R using gganimate
+# 📊 Animated Graphs in R using gganimate
+[![R Version](https://img.shields.io/badge/R-%3E%3D%204.0-blue)](https://www.r-project.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Made with ggplot2](https://img.shields.io/badge/Made%20with-ggplot2-orange)](https://ggplot2.tidyverse.org/)
+[![YouTube Tutorial](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?logo=youtube)](https://youtube.com/)
+[![Last Commit](https://img.shields.io/github/last-commit/WesalMegahed/Animated-Graph-with-R)](https://github.com/WesalMegahed/Animated-Graph-with-R/commits/main)
 
 
 ![Banner](A_promotional_digital_banner_showcases_creating_an.png)
 
 This project demonstrates how to create animated visualizations in R using ggplot2, gganimate, and gifski.
 It is designed as a tutorial example and uses the built-in economics dataset from ggplot2.
+
 
 🚀 Features
 
@@ -28,26 +34,20 @@ thumbnail.png → Intro/thumbnail for YouTube.
 
 README.md → Documentation.
 
-📖 Example Outputs
-Unemployment Over Time
+### 📖 Example Outputs
 
-Savings vs Unemployment
+![Unemployment Over Time](images/unemployment_line.gif)
+
+### 📊 Savings vs Unemployment (Animated)
+![Savings vs Unemployment](images/savings_vs_unemployment.gif)
+
 
 🛠 Requirements
 
 R (version ≥ 4.0)
 
 R packages:
-
-ggplot2
-
-gganimate
-
-gifski
-
-Install them using:
-
-install.packages(c("ggplot2", "gganimate", "gifski"))
+Install them using: install.packages(c("ggplot2", "gganimate", "gifski"))
 
 ▶️ How to Run
 
