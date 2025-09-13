@@ -1,5 +1,13 @@
-# Animated-Graph-with-R
-Animated Graphs in R using gganimate
+📊 Animated Graphs in R using gganimate
+
+
+
+
+
+
+
+
+
 
 This project demonstrates how to create animated visualizations in R using ggplot2, gganimate, and gifski.
 It is designed as a tutorial example and uses the built-in economics dataset from ggplot2.
@@ -26,7 +34,10 @@ thumbnail.png → Intro/thumbnail for YouTube.
 
 README.md → Documentation.
 
+📖 Example Outputs
+Unemployment Over Time
 
+Savings vs Unemployment
 
 🛠 Requirements
 
@@ -40,7 +51,7 @@ gganimate
 
 gifski
 
-You can install them using:
+Install them using:
 
 install.packages(c("ggplot2", "gganimate", "gifski"))
 
@@ -56,6 +67,10 @@ Open animated_graphs.R in RStudio.
 Run the script to generate GIF animations.
 
 The outputs will be saved in your working directory.
+
+🎥 YouTube Tutorial
+
+👉 Watch the full step-by-step tutorial here:
 
 🎥 YouTube Tutorial
 
